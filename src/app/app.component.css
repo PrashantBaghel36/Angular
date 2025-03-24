@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+h2{
+    background-color: red;
+    text-align: center;
+    color: black;
+}
+#logo{
+    background-color: gainsboro;
+    align-items: center;
+    text-align: center;
+}
+input{
+    border: 4px solid black;
+    box-shadow:0dvb;
+    color: red;
+}
